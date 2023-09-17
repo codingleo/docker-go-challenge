@@ -31,3 +31,7 @@ Github: https://github.com/codingleo/docker-go-challenge
 Docker hub: https://hub.docker.com/r/verstandtech/fullcycle
 
 Size: 1.36 MB
+
+## Referências para atingir resultados
+
+Building smaller Golang images - https://codeoverload.io/blog/smaller-golang-images
